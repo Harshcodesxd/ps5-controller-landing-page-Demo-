@@ -4,9 +4,9 @@ A product showcase landing page for limited-edition PS5 DualSense controllers, b
 
 I saw this design in a screen recording and rebuilt it from scratch as a practice project: no template, no copied code.
 
-**Live demo:** [add your link here]
+**Live demo:** https://ps5-controller-landing-page.vercel.app/
 
-![Screenshot of the page](Assets/screenshot.png)
+![Screenshot of the page](Assets/thumb-007.jpg)
 
 ## Status
 
