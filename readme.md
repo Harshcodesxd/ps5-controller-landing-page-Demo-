@@ -6,7 +6,7 @@ I saw this design in a screen recording and rebuilt it from scratch as a practic
 
 **Live demo:** https://ps5-controller-landing-page.vercel.app/
 
-![Screenshot of the page](Assets/thumb-007.jpg)
+![Screenshot of the page](Assets/POV.png)
 
 ## Status
 
