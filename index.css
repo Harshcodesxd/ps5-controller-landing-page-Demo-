@@ -585,8 +585,8 @@ box-shadow: 0 0 22px color-mix(in srgb, var(--accent) 45%, transparent);
 }
 
 .play-icon {
-  background: #fff;
-  padding: 7px;
+  background: var(--text);
+  padding: 5px;
   box-sizing: content-box;
 }
 
